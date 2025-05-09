@@ -1,0 +1,27 @@
+numpy
+scipy
+matplotlib
+torch
+# PyTorch and related libraries
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Natural Language Toolkit
+nltk>=3.8.1
+
+# Image processing
+Pillow>=10.0.0
+
+# Progress bar
+tqdm>=4.66.1
+
+# Lightning Memory-Mapped Database - (still works, no strict version needed)
+lmdb
+
+# TensorFlow
+
+# TensorBoardX (optional - many now use built-in TensorBoard from tensorflow/torch)
+
+# Web interface for Python
+streamlit
+
